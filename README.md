@@ -1,5 +1,8 @@
 # fslogix
 Tools und Scripte zu FSLogix
+
+# download unter  
+https://docs.microsoft.com/en-us/fslogix/install-ht  
   
 Just configure the value  
 https://docs.microsoft.com/en-us/fslogix/profile-container-configuration-reference#redirxmlsourcefolder
