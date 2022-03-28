@@ -19,3 +19,6 @@ Any modified file in base will be copied back to profile on user logout.
   
 3 = Files are copied from/to base.  
 Combinations options 1 and 2.  
+  
+# Profile Container content  
+https://docs.microsoft.com/en-us/fslogix/manage-profile-content-cncpt  
