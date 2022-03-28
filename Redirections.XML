@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrxProfileFolderRedirection ExcludeCommonFolders="0">
+    <Excludes>
+         <Exclude Copy="0">AppData\Local\Microsoft\Office\16.0\OfficeFileCache</Exclude>
+    </Excludes>
+</FrxProfileFolderRedirection>
+
