@@ -1,6 +1,10 @@
 # fslogix
 Tools und Scripte zu FSLogix
-
+  
+z.Z. Optimale Version 2105 (2.9.7838.44263)  
+https://docs.microsoft.com/de-de/fslogix/whats-new#fslogix-2105-hf_01-29797962170  
+  
+  
 [download fslogix](https://docs.microsoft.com/en-us/fslogix/install-ht)
 
 
