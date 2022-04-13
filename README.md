@@ -27,3 +27,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\FSLogix
   
 # Schulung  
 [Implement and manage FSLogix](https://docs.microsoft.com/en-us/learn/modules/implement-manage-fslogix/)  
+  
+# Best Practices  
+[FSLogix Profile Group Policy Settings](https://ramprasadtech.com/wp-content/uploads/2020/12/FSLogix-Group-Policy-Settings-v1.0-17Sep20.xlsx)  
+  
