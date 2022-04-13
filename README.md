@@ -7,7 +7,9 @@ https://docs.microsoft.com/de-de/fslogix/whats-new#fslogix-2105-hf_01-2979796217
   
 [download fslogix](https://docs.microsoft.com/en-us/fslogix/install-ht)
 
-
+# Regkey  
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\FSLogix  
+  
 # Scripts  
 [FSLogix VHD/VHDX Profile Compacting Script](https://www.citrixirc.com/fslogix-vhdvhdx-profile-compacting-script/)  
 [Evergreen Script – Update your Software, the lazy way](https://www.deyda.net/index.php/de/evergreen-script-de/)  
