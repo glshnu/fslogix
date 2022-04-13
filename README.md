@@ -30,4 +30,5 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\FSLogix
   
 # Best Practices  
 [FSLogix Profile Group Policy Settings](https://ramprasadtech.com/wp-content/uploads/2020/12/FSLogix-Group-Policy-Settings-v1.0-17Sep20.xlsx)  
+[FSLogix v2105 – How to Increase VHDX size of profile container](https://avdlogix.com/fslogix-increaseprofilesize)
   
