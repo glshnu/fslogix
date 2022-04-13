@@ -19,4 +19,6 @@ https://docs.microsoft.com/de-de/fslogix/whats-new#fslogix-2105-hf_01-2979796217
 [Instructions on how to configure this can be found here:  ](https://social.msdn.microsoft.com/Forums/windows/en-US/029e130e-5892-4d1f-88a7-f8046d78f3b0/using-redirectionsxml-to-configure-what-to-copy-to-a-profile-with-fslogix)  
 
 [Profile Container content](https://docs.microsoft.com/en-us/fslogix/manage-profile-content-cncpt)  
-
+  
+# Troubleshooting  
+[FSLogix Troubleshooting guide](https://www.amorales.org/2020/04/fslogix-troubleshooting-guide.html)
