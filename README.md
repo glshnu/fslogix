@@ -24,3 +24,6 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\FSLogix
   
 # Troubleshooting  
 [FSLogix Troubleshooting guide](https://www.amorales.org/2020/04/fslogix-troubleshooting-guide.html)
+  
+# Schulung  
+[Implement and manage FSLogix](https://docs.microsoft.com/en-us/learn/modules/implement-manage-fslogix/)  
